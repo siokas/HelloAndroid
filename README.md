@@ -20,7 +20,7 @@ This is the very first app of the Android Development Class, which helps you to 
 
 <li> The final step is to customize the Activity by giving the Activity Name, Layout Name, Title, Menu Resource Name </li>
 
-<img src="https://github.com/solotsopa/HelloAndroid/blob/master/ScreenShots/CreateProject3.png">
+<img src="https://github.com/solotsopa/HelloAndroid/blob/master/ScreenShots/CreateProject4.png">
 
 </ol>
 
